@@ -1,1 +1,8 @@
 /target
+
+# devenv.sh stuff
+.devenv*
+devenv.local.nix
+devenv.*
+.envrc
+.pre-commit-config.yaml
